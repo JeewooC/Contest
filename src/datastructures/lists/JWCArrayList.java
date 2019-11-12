@@ -50,6 +50,7 @@ public class JWCArrayList<E> implements List<E> {
         return i;
     }
 
+
     @Override
     public boolean contains(Object o) {
         return false;
